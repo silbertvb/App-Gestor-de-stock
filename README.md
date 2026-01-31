@@ -7,7 +7,13 @@ Incluye un flujo completo de alta y edición simulada de productos, manejo de er
 
 ## 🖼️ Vista previa
 
-> Listado principal + confirmación tras alta
+> Listado principal con la BD inicial
+
+![Listado de productos](img/2_Listado_de_Productos.JPG)
+
+## 🖼️ Vista final
+
+> Listado principal + confirmación tras alta de nuevo producto
 
 ![Listado de productos](img/2_Listado_de_Productos.JPG)
 
