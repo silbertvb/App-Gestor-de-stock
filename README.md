@@ -15,7 +15,7 @@ Incluye un flujo completo de alta y edición simulada de productos, manejo de er
 
 > Listado principal + confirmación tras alta de nuevo producto
 
-![Listado de productos](img/2_Listado_de_Productos.JPG)
+![Listado de productos](img/7_Nuevo_producto_añadido.JPG)
 
 ---
 
